@@ -8,10 +8,15 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController <UIImagePickerControllerDelegate>
+@interface ViewController : UIViewController <UIImagePickerControllerDelegate, UINavigationControllerDelegate>
 
+// the url where the app is located
 @property NSString *BASE_URL;
+
+// when acessing native ios functions ie: webview://takepic
 @property NSString *WEB_SCHEME;
+
+// To switch between development and production
 @property Boolean development;
 
 @property (weak, nonatomic) IBOutlet UIWebView *web;
