@@ -50,7 +50,7 @@
 // handle anything when page is loaded
 - (void)webViewDidFinishLoad:(UIWebView *)webView {
     // store in the views local storage that this is an iphone
-   // [self stringByEvaluatingJavascriptFromString:@"localStorage.setItem('isiphone', true);"];
+    [web stringByEvaluatingJavascriptFromString:@"localStorage.setItem('isiphone', true);"];
 
     NSLog(@"finished loading");
 }
