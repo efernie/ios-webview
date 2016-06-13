@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>48E44AA9-4C76-4D8B-A9DD-FA1AC1F9A01D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IOS Mobile Web View</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3D1CC1A2-A18C-4181-9BAF-741D014C76ED</key>
+		<string>https://github.com/efernie/ios-webview.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IOS Mobile Web View.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3D1CC1A2-A18C-4181-9BAF-741D014C76ED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/efernie/ios-webview.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3D1CC1A2-A18C-4181-9BAF-741D014C76ED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3D1CC1A2-A18C-4181-9BAF-741D014C76ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-webview</string>
+		</dict>
+	</array>
+</dict>
+</plist>
